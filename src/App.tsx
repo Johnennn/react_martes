@@ -71,7 +71,7 @@ export default function App() {
           </div>
           
           <h1 className="text-5xl md:text-7xl font-black uppercase tracking-tighter mb-6 leading-none">
-            <GlitchText text="No dejes que te Desangren" className="block text-white" />
+            <GlitchText text="No dejes que te Desangren" className="block text-white" /> <br></br> <br></br>
           </h1>
           
           <p className="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto font-light border-l-4 border-red-700 pl-4 text-left">
